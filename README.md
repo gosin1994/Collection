@@ -7,3 +7,6 @@
 #### 5.HashMap、LinkedHashMap的区别？
 #### 6.HashMap是线程安全吗？
 #### 7.ConcurrentHashMap是怎么实现线程安全的？
+----- 
+*下图是Collection的类继承图*
+![Collection的类继承图](http://img.my.csdn.net/uploads/201310/29/1383051173_5692.jpeg)
